@@ -8,4 +8,5 @@ public class Main {
         Singleton01 instance = Singleton01.getInstance();
         System.out.println(instance);
     }
+
 }
