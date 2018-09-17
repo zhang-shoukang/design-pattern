@@ -1,4 +1,4 @@
-package com.zsk.creational.design.pattern;
+package com.zsk.creational.design.pattern.Factory;
 
 /**
  * Create by zsk on 2018/9/16

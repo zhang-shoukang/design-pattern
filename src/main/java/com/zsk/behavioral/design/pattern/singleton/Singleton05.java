@@ -4,7 +4,6 @@ package com.zsk.behavioral.design.pattern.singleton;
  * Create by zsk on 2018/8/31
  **/
 import com.zsk.basic.annoactions.NotRecommend;
-import com.zsk.basic.annoactions.NotThreadSafe;
 import com.zsk.basic.annoactions.ThreadSafe;
 
 

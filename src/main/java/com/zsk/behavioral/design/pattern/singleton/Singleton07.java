@@ -1,6 +1,5 @@
 package com.zsk.behavioral.design.pattern.singleton;
 
-import com.zsk.basic.annoactions.NotRecommend;
 import com.zsk.basic.annoactions.Recommend;
 import com.zsk.basic.annoactions.ThreadSafe;
 
